@@ -2,5 +2,5 @@
 
 
 Test $x = y+2$
-## amazing formula
+## amazing formula\
 $$x = y = z$$
